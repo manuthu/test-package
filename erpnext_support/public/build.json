@@ -1,0 +1,8 @@
+{
+	"js/erpnext_support.js": [
+		"public/js/erpnext_support.js"
+	],
+	"css/erpnext-support.css": [
+		"public/less/erpnext_support.less"
+	]
+}

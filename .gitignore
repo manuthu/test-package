@@ -1,0 +1,17 @@
+.DS_Store
+*.pyc
+*.py~
+conf.py
+locale
+latest_updates.json
+.wnf-lang-status
+*.egg-info
+dist/
+erpnext_support/docs/current
+*.swp
+*.swo
+__pycache__
+*~
+.idea/
+.vscode/
+node_modules/

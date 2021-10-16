@@ -1,0 +1,27 @@
+@import "variables.less";
+
+.notification-note {
+	position: relative;
+	padding: 8px 12px;
+	border-radius: 4px;
+}
+
+.warn {
+	background-color: @yellow-extra-light  !important;
+	border: 1px solid @yellow  !important;
+
+	.fa {
+		color: @orange ;
+	}
+	.fa-info-circle:before {
+		font-size: 1.4rem;
+	}
+
+	h6 {
+		color: @text-color;
+	}
+
+	a {
+		color: @brand-primary;
+	}
+}
